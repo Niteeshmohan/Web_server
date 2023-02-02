@@ -33,7 +33,7 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 
 content = """
 <html>
-</head>
+<head>
 </head>
 <body>
 <h1>WELCOME</h1>
